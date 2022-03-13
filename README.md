@@ -4,8 +4,9 @@
 R is the second most popular programming language used in data science.
 (https://towardsdatascience.com/team-r-or-team-python-2f8cf04310e6)
 
-Why R is important:
+
 ``````
+Why R is important:
 -Free & Open-source
 -Optimized for vector operations
 -has community support
