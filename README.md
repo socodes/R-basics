@@ -12,3 +12,5 @@ Why R is important:
 -has community support
 -has 10K+ third party packages
 
+``````
+This repository contains basic operations in R language
