@@ -22,7 +22,7 @@ install.package(PACKAGE_NAME)
 - Change current working directory to repository location.
 - Run the script: "Rscript SCRİPT_NAME.R"
 
-Why R is important:
+### Why R is important:
 - ![](https://miro.medium.com/max/1838/0*vAJhXpcNXcpT3aLP.png)
 
 - R is the second most popular programming language used in data science.
